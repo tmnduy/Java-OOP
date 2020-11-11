@@ -19,8 +19,8 @@ public class student {
     }
 
     // Tính điểm trung bình
-    public static void averaged() {
-        result = (lt + th) / 2;
+    public static float averaged() {
+        return result = (lt + th) / 2;
     }
 
     // Xuất
